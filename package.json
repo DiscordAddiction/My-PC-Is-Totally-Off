@@ -1,0 +1,18 @@
+{
+  "name": "my-pc-is-totally-off",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "run": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.0.1",
+    "electron-builder": "^23.3.3"
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
